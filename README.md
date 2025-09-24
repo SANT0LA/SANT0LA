@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Olá, eu sou o João Victor!
 
-<!--
-**SANT0LA/SANT0LA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante e entusiasta de Dados
+🔍 Atualmente focado em Análise de Dados e buscando evoluir para Ciência de Dados.
+⚽ Apaixonado por futebol e interessado em projetos que unam esportes e tecnologia.
+📚 Também desenvolvo projetos pessoais para aprender e compartilhar conhecimento.
 
-Here are some ideas to get you started:
+🚀 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens: Python, SQL, R
+
+Análise & Visualização: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+
+Outros: Git, GitHub, Streamlit, APIs
+
+📌 Projetos em Destaque
+
+📊 LitMe
+ → Plataforma de recomendação de livros com gamificação
+
+🤖 Bot Champions Queue
+ → Bot para organizar partidas personalizadas de League of Legends no Discord
+
+⚽ Data Soccer
+ → Projeto de análise estatística para apostas esportivas
+
+🌐 Onde me encontrar
+
+LinkedIn
+
+Portfólio/Data Projects
+
+Twitter/X
+
+⭐ Se curtir algum projeto, não esqueça de deixar uma estrela!
